@@ -1,5 +1,6 @@
 # communication
-# Matlab Simulink project BPSK, QPSK, FSK, QAM(16-64) with an AWGN environment.
+# Matlab Simulink project BPSK, QPSK, FSK, QAM(16-64) with an AWGN environment and raised cos
+
 
 - Simulation Steps:
   - AWGN: Eb/No= 10 db 
