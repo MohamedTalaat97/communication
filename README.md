@@ -23,6 +23,11 @@ The simplest BPSK scheme uses two phases to represent the two binary digits and 
 ![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/bpsk/bbsk%20before%20noise.PNG)
 ![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/bpsk/bpsk%20after%20noise.PNG)
 ![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/bpsk/bpsk%20ber.png)
+
+## scatter plot and ber diagram (raised cos)
+![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/raised%20cosine/bpsk/bpsk%20before%20raised.PNG)
+![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/raised%20cosine/bpsk/bpsk%20raised%20after%20.PNG)
+![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/raised%20cosine/bpsk/bpsk%20raised.PNG)  
   
   
 # Quadrature Phase Shift Keying (QPSK)
@@ -37,6 +42,12 @@ a common encoding technique, known as QPSK uses phase shifts of multiples of 90 
 ![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/qpsk/qpsk%20before%20noise.PNG)
 ![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/qpsk/qpsk%20after%20noise.PNG)
 ![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/qpsk/qpsk.png)  
+
+## scatter plot and ber diagram (raised cos)
+![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/raised%20cosine/qpsk/qpsk%20before%20raised.PNG)
+![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/raised%20cosine/qpsk/qpsk%20raised%20after.PNG)
+![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/raised%20cosine/qpsk/qpsk%20raised.PNG)  
+  
   
 
 #Quadrature Amplitude Modulation (QAM) -16
@@ -51,7 +62,12 @@ This is also antoher modulation scheme but carry information in amplitude and in
 ![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/qam16/qam%2016%20after.PNG)
 ![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/qam16/qam.png)  
   
-  
+ ## scatter plot and ber diagram (raised cos)
+![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/raised%20cosine/qam%2016/qam%20raised%20before.PNG)
+![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/raised%20cosine/qam%2016/qam%20after%20raised.PNG)
+![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/raised%20cosine/qam%2016/qam%20raised.PNG)  
+
+
 #Quadrature Amplitude Modulation (QAM) -64
 
 - QAM-64 Simulation
@@ -63,6 +79,10 @@ This is also antoher modulation scheme but carry information in amplitude and in
 ![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/qam64/qam64%20after%20noise.PNG)
 ![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/qam64/qam64.png)  
 
+## scatter plot and ber diagram (raised cos)
+![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/raised%20cosine/qam64/qam64%20raised%20after.PNG)
+![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/raised%20cosine/qam64/qam64%20raised.PNG) 
+
 # Frequency Shift Keying (FSK)
 FSK stands for Frequency-shift keying
 allows digital information to be transmitted by changes or shifts in the frequency of a carrier signal, 
@@ -72,10 +92,16 @@ FSK is commonly used for caller ID and remote metering applications.
 FSK is also known as frequency modulation (FM).
 
 - FSK Simulation
-  - RandomIntegerGeneration:set size = 2
+  - RandomIntegerGeneration:set size = 2.
+  
 ## scatter plot and ber diagram 
 ![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/fsk/fsk%20before.PNG)
 ![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/fsk/fsk%20after%20.PNG)
 ![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/fsk/fsk-d.png)  
+
+
+## scatter plot and ber diagram (raised cos)
+![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/raised%20cosine/fsk/fsk%20raised%20before.PNG)
+![bpsk](https://github.com/mohameDMEDO97/communication/blob/master/raised%20cosine/fsk/fsk%20raised%20beofre.PNG)
   
   
